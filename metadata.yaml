@@ -1,0 +1,29 @@
+_repo: Paint-Technology-and-Tests_37420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardner, Henry A. (Henry Alfred)
+    aliases:
+    - Gardner, Henry Alfred
+    - Gardner, H. A. (Henry Alfred)
+    birthdate: 1882
+    gutenberg_agent_id: '38832'
+    url: http://www.gutenberg.org/2009/agents/38832
+description: ''
+gutenberg_issued: '2011-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37420'
+  lccn: '12000713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Paint'
+title: Paint Technology and Tests
+url: http://www.gutenberg.org/ebooks/37420
